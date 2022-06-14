@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHL_Demo", "DHL_Demo\DHL_Demo.csproj", "{B052D664-CE15-4156-8C48-BCFC2D1EA6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B052D664-CE15-4156-8C48-BCFC2D1EA6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B052D664-CE15-4156-8C48-BCFC2D1EA6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B052D664-CE15-4156-8C48-BCFC2D1EA6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B052D664-CE15-4156-8C48-BCFC2D1EA6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF556E3-60AC-420B-AD53-FDB1D84CE72F}
+	EndGlobalSection
+EndGlobal
