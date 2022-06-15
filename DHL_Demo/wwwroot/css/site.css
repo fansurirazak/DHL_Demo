@@ -17,3 +17,13 @@ body {
   margin-bottom: 60px;
 }
 
+.navbar .navbar-nav > li.open > a:hover,
+.navbar .navbar-nav > li.open > a:focus {
+    background-color: #000000;
+    color: #000000;
+}
+
+.btn-test {
+    background-color: #f91320;
+    color: white;
+}
